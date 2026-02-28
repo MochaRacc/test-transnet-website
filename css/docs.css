@@ -11481,8 +11481,8 @@ a:active {
 .nsw-global-alert .nsw-icon-button {
   color: var(--nsw-text-light);
   position: absolute;
-  right: .25rem;
-  top: -.5rem
+  right: 1.25rem;
+  top: 1.5rem;
 }
 
 .nsw-global-alert .nsw-icon-button:hover {
