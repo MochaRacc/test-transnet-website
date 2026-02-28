@@ -12267,7 +12267,7 @@ a:active {
 }
 
 .nsw-hero-banner--light {
-  background-color: var(--nsw-brand-light)
+  background-color: var(--nsw-status-info-bg);
 }
 
 .nsw-hero-banner--light .nsw-hero-banner__lines {
