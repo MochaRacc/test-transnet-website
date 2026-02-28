@@ -7963,6 +7963,16 @@ a:active {
   position: relative
 }
 
+.nsw-disruption-card {
+  border-radius: var(--nsw-border-radius);
+  color: var(--nsw-text-dark);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+  position: relative
+}
+
 .nsw-card:hover {
   color: var(--nsw-text-light)
 }
